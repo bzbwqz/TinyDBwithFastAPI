@@ -101,7 +101,7 @@ uvicorn app:app --reload
 ## 部署
 本应用可以部署在支持Python的云平台上，如Azure Web App。确保云平台为 db.json 文件提供足够的存储空间。
 
-## 贡献指南
+# 贡献指南
 欢迎对本项目做出贡献。请fork本仓库并提交您的更改。
 
 ## 许可证
